@@ -44,7 +44,7 @@ The people creating stuff at DJdj Development!
 <tr>
 <th><a href="https://github.com/DJj123dj">💻 DJj123dj</a></th>
 <th><a href="https://github.com/Sank34">💬 Sanke</a></th>
-<th><a href="https://github.com/smetsliam">💬 DevBack</a></th>
+<th><a href="https://github.com/smetsliam">💬 Liam</a></th>
 </tr>
 </table>
 
