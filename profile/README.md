@@ -13,7 +13,10 @@ Currently, our only project is <a href="https://otgithub.dj-dj.be"><b>Open Ticke
 If you need any help with configuring or using the bots, feel free to join our <a href="https://discord.dj-dj.be">discord server</a>!
 </p>
 
-<p align="center"><b>⭐️ Help us grow by giving our projects a star! ⭐️</b></p>
+<h3 align="center"><b>⭐️ Support Open Discord’s growth by starring our repositories! ⭐️</b></h3>
+<p align="center"><sup>❤️ Love Open Ticket? <a href="https://github.com/sponsors/DJj123dj">Sponsorships</a> help fuel our HTML transcript servers and future features! ❤️</sup><br>
+<img align="center" src="https://raw.githubusercontent.com/open-discord-bots/open-ticket/refs/heads/dev/.github/SPONSORS.svg" alt="Open Ticket" width="800px">
+</p>
 
 ## 💾 Projects
 ### [Open Ticket](https://www.github.com/open-discord-bots/open-ticket)
@@ -53,28 +56,8 @@ A list of people that contributed or provided support for Open Discord related p
 </tr>
 </table>
 
-### ❤️ Sponsors
-A big thanks to all our sponsors! Without them, it wouldn't be possible to create these projects!
-
-<table>
-<tr>
-<td><img src="https://github.com/guillee3.png" alt="Profile Picture" width="100px"></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/guillee3"><b>guillee3</b></a></td>
-</tr>
-</table>
-
-**Past Sponsors:**<br>
-<a href="https://github.com/sponsors/DJj123dj">
-<img src="https://github.com/SpyEye2.png" alt="SpyEye" width="40px">
-<img src="https://github.com/mods-hd.png" alt="Mods HD" width="40px">
-<img src="https://github.com/DOSEV5.png" alt="DOSEV5" width="40px">
-<img src="https://github.com/BENZORICH.png" alt="BENZORICH" width="40px">
-</a>
-
 ---
 <img src="https://apis.dj-dj.be/cdn/opendiscord/logo.png" alt="Open Discord Logo" width="170px">
 
 **README.md**<br>
-© 2025 - [DJdj Development](https://www.dj-dj.be) - [Terms](https://www.dj-dj.be/terms) - [Privacy Policy](https://www.dj-dj.be/privacy) - [Support Us](https://github.com/sponsors/DJj123dj) - [Discord](https://discord.dj-dj.be)
+© 2026 - [DJdj Development](https://www.dj-dj.be) - [Terms](https://www.dj-dj.be/terms) - [Privacy Policy](https://www.dj-dj.be/privacy) - [Support Us](https://github.com/sponsors/DJj123dj) - [Discord](https://discord.dj-dj.be)
